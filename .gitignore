@@ -1,0 +1,5 @@
+manga_checker.db
+
+/src/__pycache__/
+
+/Logs/db.log
